@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm sudarkodi
 
-<!--
-**sudar7-dev/sudar7-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-taught software engineer learning Java and backend systems.
+Currently building toward a Software Engineer role.
 
-Here are some ideas to get you started:
+**What I'm doing right now:**
+- Learning Java fundamentals (Effective Java — Joshua Bloch)
+- Building a Task Manager CLI in Java
+- Solving LeetCode problems daily
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech I'm working with:**
+Java · Spring Boot (coming soon) · Git · IntelliJ IDEA
+
+**Goal:** Google SWE L3/L4 by [June/2029 36 months from now]
