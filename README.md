@@ -4,7 +4,7 @@ Self-taught software engineer learning Java and backend systems.
 Currently building toward a Software Engineer role.
 
 **What I'm doing right now:**
-- Learning Java fundamentals (Effective Java — Joshua Bloch)
+- Learning Java fundamentals 
 - Building a Task Manager CLI in Java
 - Solving LeetCode problems daily
 
