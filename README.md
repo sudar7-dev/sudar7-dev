@@ -5,7 +5,7 @@ Currently building toward a Software Engineer role.
 
 **What I'm doing right now:**
 - Learning Java fundamentals 
-- Building a Task Manager CLI in Java
+- Building a Library system in Java
 - Solving LeetCode problems daily
 
 **Tech I'm working with:**
